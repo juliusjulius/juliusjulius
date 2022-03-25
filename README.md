@@ -1,6 +1,5 @@
 ### Hello world, my name is Julius ! 👋🌍
 <br />
-<br />
 
 <img src="https://www.thisiscolossal.com/wp-content/uploads/2018/04/agif2opt.gif" width="840" height="400"/>
 
