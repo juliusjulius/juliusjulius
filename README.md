@@ -2,8 +2,8 @@
 
 
 <img src="https://www.thisiscolossal.com/wp-content/uploads/2018/04/agif2opt.gif" width="840" height="400"/>
-</br>
-</br>
+<br />
+<br />
 <!--
 **juliusjulius/juliusjulius** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
