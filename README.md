@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hello world, my name is Julius ! 👋🌍
+
+![](https://www.thisiscolossal.com/wp-content/uploads/2018/04/agif2opt.gif =250x250)
+
 
 <!--
 **juliusjulius/juliusjulius** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
